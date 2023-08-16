@@ -1,0 +1,79 @@
+{
+    "house":[
+        {
+     "id":1,
+     "title": "De Slufter",
+     "price": 800,
+     "bedroom": 4,
+     "bathroom": 2,
+     "description": "In the popular neighborhood Floriande is a fully furnished apartment with 2 bedrooms for rent. It is located on the 5th floor and it has a balcony (access from the living room) which offers a beautiful view.",
+     "category": "Apartment",
+     "location": "Gaza",
+     "room": 5,
+     "photo": "https://www.wadden-vakantiehuis.nl/2014/fotos/overzicht/0101160.jpg"    
+        },
+        {
+      "id": 2,
+      "title": "Super Deluxe",
+      "price": 1200,
+      "bedroom": 5,
+      "bathroom": 2,
+       "description": "Super deluxe apartment for rent. The apartment is in Al Faluja area, near communications",
+        "category": "Apartment",
+        "location": "KhanYounes",
+        "room": 5,
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSod8gdOIoDK1uxbrBk94AoDgoXr4vAfFuacWRgBjymVaLv0AZ4uOfPyaCPUeGGmOJY8OY&usqp=CAU"
+          },
+      
+           {
+          "id": 3,
+          "title": "white house al-Sharif",
+          "price": 900,
+          "bedroom": 2,
+          "category": "Apartment",
+          "bathroom": 2,
+          "description": "White House al sharif is located in Gaza. This property offers access to a balcony, free private parking, and free WiFi.The apartment features a terrace, 2 bedrooms, a living room, and a well-equipped kitchen. A flat-screen TV is provided",
+          "location": "Gaza",
+          "room": 6,
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470497882.jpg?k=4ca84316a15f5f806fc4057e15bb7a63ee89439748d9aff46e3aa4507933fbda&o=&hp=1"
+          },
+
+          {
+          "id": 4,
+          "title": "Grand Palace Hotel",
+          "price": 1500,
+          "bedroom": 7,
+          "bathroom": 3,
+          "description": "Alsia3a is located in Gaza and offers a garden. Complimentary WiFi is provided throughout the property and private parking is available on site. The air-conditioned apartment is composed of 2 separate bedrooms, a living room, a fully equipped kitchen, and 3 ",
+          "category": "Apartment",
+          "location": "Rafah",
+          "room": 6,
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350500077.jpg?k=c3da26b06332c0deea8fd7d00efe096088f935b78686ed14747b18886be3837e&o=&hp=1"
+          },
+          {
+          "id": 5,
+          "title": "Chalet International ",
+          "price": 1000,
+          "bedroom": 2,
+          "bathroom": 3,
+          "description": "is set in Khan Younes and has a private pool, a kitchen, and garden views. This property offers access to a balcony, free private parking, and free WiFi.This 2-bedroom apartment will provide you with a flat-screen TV, air conditioning, and a living room.",
+          "location": "KhanYounes",
+          "room": 6,
+          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKj-f_X-M0fnaXKU9lUZTTmvygi_rXBkOuJkVMK2rNcqc9sYIr-2sDHJjuVjWxodCdMxI&usqp=CAU"
+          },
+          {
+          "id": 6,
+          "title": "alsia3a",
+          "price": 700,
+          "bedroom": 3,
+          "bathroom": 3,
+          "description": "Alsia3a is located in Gaza and offers a garden. Complimentary WiFi is provided throughout the property and private parking is available on site.   The air-conditioned apartment is composed of 2 separate bedrooms, a living room, a fully equipped kitchen, and 3 bathrooms.",
+          "category": "Roof",
+          "location": "Rafah",
+          "room": 4,
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469801351.jpg?k=edb63b23b8d1294d06c96d7f16fe3c7defcdfec130ecd9f4e9f97adf299dad04&o=&hp=1"
+          }
+
+
+    ]
+}
